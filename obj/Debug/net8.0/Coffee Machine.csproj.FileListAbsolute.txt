@@ -1,0 +1,14 @@
+G:\Coffee Machine\bin\Debug\net8.0\Coffee Machine.exe
+G:\Coffee Machine\bin\Debug\net8.0\Coffee Machine.deps.json
+G:\Coffee Machine\bin\Debug\net8.0\Coffee Machine.runtimeconfig.json
+G:\Coffee Machine\bin\Debug\net8.0\Coffee Machine.dll
+G:\Coffee Machine\bin\Debug\net8.0\Coffee Machine.pdb
+G:\Coffee Machine\obj\Debug\net8.0\Coffee Machine.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coffee Machine\obj\Debug\net8.0\Coffee Machine.AssemblyInfoInputs.cache
+G:\Coffee Machine\obj\Debug\net8.0\Coffee Machine.AssemblyInfo.cs
+G:\Coffee Machine\obj\Debug\net8.0\Coffee Machine.csproj.CoreCompileInputs.cache
+G:\Coffee Machine\obj\Debug\net8.0\Coffee Machine.dll
+G:\Coffee Machine\obj\Debug\net8.0\refint\Coffee Machine.dll
+G:\Coffee Machine\obj\Debug\net8.0\Coffee Machine.pdb
+G:\Coffee Machine\obj\Debug\net8.0\Coffee Machine.genruntimeconfig.cache
+G:\Coffee Machine\obj\Debug\net8.0\ref\Coffee Machine.dll
